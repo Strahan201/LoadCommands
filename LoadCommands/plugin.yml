@@ -1,0 +1,5 @@
+name: LoadCommands
+author: Strahan
+main: com.sylvcraft.LoadCommands
+version: 1.0
+description: Run commands when server starts up
